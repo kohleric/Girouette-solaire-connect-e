@@ -1,6 +1,6 @@
 # Girouette-solaire (wifi)
 Girouette (vitesse hélice + direction) transmission wifi reception serveur odroid
-arduino, esp 32, odroid + capteurs
+arduino, esp 32, odroid + capteurs / cpp, python, js
 
 ![20240309_090421-2048x1152](https://github.com/user-attachments/assets/61bde070-6b61-4a26-8d92-7d956e217c00)
 
